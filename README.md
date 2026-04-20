@@ -337,11 +337,3 @@ Outputs from both models displayed side-by-side.
 User selects the correct result or provides manual correction.
 
 ![Feedback](./assets/feedback.png)
-
----
-
-### 🎥 Full Demo (End-to-End Flow)
-
-Upload → OCR Processing → Result Comparison → Feedback Saved
-
-![Demo GIF](./assets/demo.gif)
