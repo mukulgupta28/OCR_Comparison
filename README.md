@@ -250,7 +250,7 @@ backend/database/feedback.json
 {
   "filename": "1.jpeg",
   "model1": "HR26 DK 1234",
-  "model2": "HR26DK1234",
+  "model2": "HR28CK1234",
   "choice": "model1_correct",
   "correct": ""
 }
